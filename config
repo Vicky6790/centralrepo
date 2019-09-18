@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = ec2-user@ec2-13-232-45-213.ap-south-1.compute.amazonaws.com
+	fetch = +refs/heads/*:refs/remotes/origin/*
